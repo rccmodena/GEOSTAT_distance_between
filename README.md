@@ -35,8 +35,8 @@ The Python Standard Libraries used:
 - [csv](https://docs.python.org/3/library/csv.html)
 
 Other Libraries used:
-- [matplotlib - 3.0.3]()
-- [numpy - 1.16-2]()
+- [matplotlib - 3.0.3](https://matplotlib.org/index.html)
+- [numpy - 1.16-2](https://www.numpy.org)
 
 ## TODO
 
