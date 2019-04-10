@@ -22,7 +22,7 @@ To install this repository there are two ways:
 - Or clone the repository
 
 ```sh
-$ $ git clone https://github.com/rccmodena/log-analysis.git
+$ $ git clone https://github.com/rccmodena/distance_between.git
 $ cd distance_between/
 ```
 
